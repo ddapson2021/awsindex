@@ -1,5 +1,9 @@
-<style>
-body {background-color: #32A852;}
-h1   {color: pink;}
-p    {color: red;}
-</style>
+body {
+  background-color: blue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
